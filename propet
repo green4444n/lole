@@ -1,0 +1,8 @@
+basil-experiment/
+├── data/               # 數據文件（CSV、JSON）
+├── images/             # 病害照片、顯微鏡圖片
+├── code/               # 分析腳本（Python、Jupyter Notebook）
+├── documents/          # 論文草稿、文獻筆記（Markdown、PDF）
+├── references/         # 參考文獻（BibTeX、RIS）
+├── figures/            # 圖表（PNG、PDF）
+└── README.md           # 倉庫說明
